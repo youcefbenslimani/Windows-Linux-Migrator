@@ -2,6 +2,8 @@
 Windows TO Linux Migrator Utility to ease the transition from Windows to Linux
 How the Program Works:
 
+path Screenshots https://github.com/youcefbenslimani/Windows-Linux-Migrator/blob/main/capture_250508_132551.jpg
+
 path file exe https://github.com/youcefbenslimani/Windows-Linux-Migrator/releases/tag/1.0
 
 PATH Source code lunx.py https://github.com/youcefbenslimani/Windows-Linux-Migrator/blob/main/lunx.py
