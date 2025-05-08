@@ -6,7 +6,7 @@ path Screenshots https://github.com/youcefbenslimani/Windows-Linux-Migrator/blob
 
 path file exe https://github.com/youcefbenslimani/Windows-Linux-Migrator/releases/tag/1.0
 
-PATH Source code lunx.py call me
+PATH Source code  call me
 
 The Windows→Linux Migrator is a tool designed to simplify the transition from Windows to Linux by:
 
