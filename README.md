@@ -1,7 +1,11 @@
 # Windows-Linux-Migrator
 Windows TO Linux Migrator Utility to ease the transition from Windows to Linux
 How the Program Works:
+
+path file exe https://github.com/youcefbenslimani/Windows-Linux-Migrator/releases/tag/1.0
+
 PATH Source code lunx.py https://github.com/youcefbenslimani/Windows-Linux-Migrator/blob/main/lunx.py
+
 The Windows→Linux Migrator is a tool designed to simplify the transition from Windows to Linux by:
 
 Identifying User Data: Scans standard Windows user folders (e.g., Desktop, Documents, Downloads) for migration.
